@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @llrtt
-- 👀 I’m interested in galgame
-- 🌱 I’m currently learning programming for galgames
-- 💞️ I’m looking to collaborate on galgame development 
 - 📫 How to reach me a2267964591@outlook.com
 
 <!---
